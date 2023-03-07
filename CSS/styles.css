@@ -1,0 +1,12 @@
+h1{
+  color: pink;
+}
+body{
+background-color:#ffefd5
+}
+hr{
+  border-color: grey;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%
+} 
